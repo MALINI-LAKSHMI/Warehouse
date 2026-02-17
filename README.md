@@ -1,4 +1,4 @@
-#Warehouse Shipment Dispatch Management System
+# Warehouse Shipment Dispatch Management System
 
 The Warehouse Shipment Dispatch Management System is a Java-based desktop application developed using JDBC and MySQL in Eclipse IDE.
 This system helps manage warehouse shipment operations efficiently, including product storage, order processing, and shipment dispatch tracking.
